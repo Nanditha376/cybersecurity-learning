@@ -1,0 +1,15 @@
+Day 0 Cybersecurity Learning
+
+I learned:
+- What is IP address
+- What is DNS
+- What is HTTP and HTTPS
+- Basic idea of how internet works
+- Ping command concept
+
+Tools explored:
+- Browser Inspect (Network tab)
+- CMD ping command
+
+Understanding:
+Website loads using requests and responses between browser and server.
