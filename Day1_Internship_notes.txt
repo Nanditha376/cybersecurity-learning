@@ -1,0 +1,11 @@
+Day 1 Internship Learning
+
+Topics covered:
+- Virtualization concept
+- Cybersecurity vs hacking vs ethical hacking
+- Red team and Blue team
+- Types of malware (ransomware, trojan, phishing)
+
+Understanding:
+Virtualization allows running another OS (like Kali Linux) inside my system using VirtualBox.
+Cybersecurity focuses on protection, while ethical hacking tests system security.
